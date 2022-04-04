@@ -8,12 +8,12 @@ The real estate company "ImmoEliza" would like me to create an API to let their 
 
 The following software, platform, and tools were utilised in this project:
 
-Heroku
-Python
-Pandas
-Docker
-Numpy
-SKlearn
+1. Heroku
+2. Python
+3. Pandas
+4. Docker
+5. Numpy
+6. SKlearn
 
 ## Usage
 
